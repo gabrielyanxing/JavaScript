@@ -14,3 +14,11 @@
 | [module1.4](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M1_4) | [module1.9](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M1_9) |
 | [module1.5](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M1_5) | [module1.10](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M1_10) |
 
+# [Module2](https://github.com/gabrielyanxing/JavaScript/tree/master/Module2)
+|                                                                                    |                                                                                      |
+|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [module2.1](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_1) | [module2.6](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_6)   |
+| [module2.2](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_2) | [module2.7](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_7)   |
+| [module2.3](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_3) | [module2.8](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_8)   |
+| [module2.4](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_4) | [module2.9](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_9)   |
+| [module2.5](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_5) | [module2.10](https://github.com/gabrielyanxing/JavaScript/tree/master/Module1/M2_10) |
